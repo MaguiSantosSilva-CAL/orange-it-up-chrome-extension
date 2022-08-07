@@ -11,4 +11,4 @@ This is a TypeScript Chrome Extension that allows user to manipulate the backgro
 
 ## Guide
 
-See my detailed explanation on creating chrome extesions with TypeScript on [Medium](https://enisfr.medium.com/creating-chrome-extensions-with-typescript-914873467b65#9f32-5ed6c8b8e388).
+See my detailed explanation on creating chrome extensions with TypeScript on [Medium](https://enisfr.medium.com/creating-chrome-extensions-with-typescript-914873467b65#9f32-5ed6c8b8e388).
